@@ -11,7 +11,7 @@
 - 💬 Ask me about **react,Frontend-Java**
 
 - 📫 How to reach me **rutujapatil85860@gmail.com**
-- 📫 How to reach me https://vercel.com/rutuja-85860s-projects/portfolio
+- 📫 How to reach me  https://portfolio-ebon-pi-52.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
